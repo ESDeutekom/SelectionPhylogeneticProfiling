@@ -1,6 +1,6 @@
 # SelectionPhylogeneticProfiling
 
-<p align="center"><img src="Workflow.png" width="500" /></p>
+<p align="center"><img src="Workflow.png" width="850" /></p>
 
 
 Manuscript: "Phylogenetic profiling in eukaryotes: The effect of species, orthologous group, and interactome selection on protein interaction prediction"
