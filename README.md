@@ -10,7 +10,7 @@ Due to the amount of data, we cannot share all the data. Most data is readily av
 ## Contained directories and files
 Main analsyis notebook: Improving_prediction.ipynb
 
-### Code_final directory
+### Code directory
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
 
 #### Software and tools in analyses
@@ -25,7 +25,7 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 - seaborn       0.11.1   
 - scikit-learn  0.22.2. 
 
-### Files directory
+### Data directory
 (Initial) raw files used, atleast needed for reproducibility with code. 
 
 #### Files in this analysis that can be downloaded
