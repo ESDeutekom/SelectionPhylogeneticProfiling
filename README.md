@@ -28,8 +28,8 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 - seaborn       0.11.1   
 - scikit-learn  0.22.2. 
 
-### Data directory
-(Initial) raw files used, atleast needed for reproducibility with code. 
+### Data
+All files can be sent upon request. 
 
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt
