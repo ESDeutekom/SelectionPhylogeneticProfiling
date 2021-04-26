@@ -11,7 +11,7 @@ This serves to share code and data for reproducibility.
 Due to the amount of data, we cannot share all the data. Most data is readily available. Any additional data can be shared upon request.
 
 ## Contained directories and files
-Main analsyis notebook: Improving_prediction.ipynb
+Main analsyis notebook: Improving_prediction_Sonic_final.ipynb
 
 ### Code directory
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
