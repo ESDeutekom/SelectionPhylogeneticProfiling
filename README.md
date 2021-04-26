@@ -10,8 +10,8 @@ Due to the amount of data, we cannot share all the data. Most data is readily av
 ## Contained directories and files
 Main analsyis notebook: Improving_prediction.ipynb
 
-### Code directory
-Code used outside of the jupyter notebook for analyses.
+### Code_final directory
+Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
 
 #### Software and tools in analyses
 - python		3.7.6
