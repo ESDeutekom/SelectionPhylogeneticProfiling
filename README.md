@@ -31,6 +31,7 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt
 - BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt
+- Orthogroup and leca orthogroup files: https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/annotations
 
 ### Figures directory
 Contains the (supplementary) figures prduced for the manuscript.
