@@ -28,5 +28,9 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 ### Files directory
 (Initial) raw files used, atleast needed for reproducibility with code. 
 
+#### Files in this analysis that can be downloaded
+- BIOGRID Homo sapiens: 3.5.172.tab2.txt
+- BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt
+
 ### Figures directory
 Contains the (supplementary) figures prduced for the manuscript.
