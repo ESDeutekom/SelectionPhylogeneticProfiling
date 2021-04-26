@@ -27,6 +27,10 @@ Code used outside of the jupyter notebook for analyses.
 - seaborn       0.11.1   
 - scikit-learn  0.22.2. 
 
+### Files directory
+
+(Initial) raw files used, atleast needed for reproducibility. 
 
 ### Figures directory
+
 Contains the (supplementary) figures prduced for the manuscript.
