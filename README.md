@@ -8,11 +8,9 @@ This serves to share code and data for reproducibility.
 Due to the amount of data, we cannot share all the data. Most data is readily available. Any additional data can be shared upon request.
 
 ## Contained directories and files
-
 Main analsyis notebook: Improving_prediction.ipynb
 
 ### Code directory
-
 Code used outside of the jupyter notebook for analyses.
 
 #### Software and tools in analyses
@@ -28,9 +26,7 @@ Code used outside of the jupyter notebook for analyses.
 - scikit-learn  0.22.2. 
 
 ### Files directory
-
-(Initial) raw files used, atleast needed for reproducibility. 
+(Initial) raw files used, atleast needed for reproducibility with code. 
 
 ### Figures directory
-
 Contains the (supplementary) figures prduced for the manuscript.
