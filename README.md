@@ -29,7 +29,9 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 - scikit-learn  0.22.2. 
 
 ### Data
-All pre-made files can be sent upon request. All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/scripts_nonsql
+
+All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/scripts_nonsql
+All pre-made files can be sent upon request. Any additional files that are possible to share are shared.
 
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt
