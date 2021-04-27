@@ -35,3 +35,4 @@ All pre-made files can be sent upon request. All data can be reproduced using th
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt
 - BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt
 - Orthogroup and leca orthogroup files: https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/annotations
+  - Phylogeentic profiles can also be made using the files and code in this previous repo
