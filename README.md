@@ -13,7 +13,7 @@ Due to the amount of data, we cannot share all the data. Most data is readily av
 ## Contained directories and files
 Main analsyis notebook: Improving_prediction_Sonic_final.ipynb
 
-### Code directory
+### Code
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
 
 #### Software and tools in analyses
