@@ -8,7 +8,7 @@ Authors: E.S. Deutekom, T.J.P. van Dam, B. Snel
 
 ## Disclaimer
 This serves to share code and data for reproducibility.
-Due to the amount of data, we cannot share all the data. Most data is readily available. Any additional data can be shared upon request.
+Due to the amount of data, we cannot share all the data. Most data is readily available. Any additional (pre-made) data can be shared upon request.
 
 ## Contained directories and files
 Main analsyis notebook: Improving_prediction_Sonic_final.ipynb
@@ -29,7 +29,7 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 - scikit-learn  0.22.2. 
 
 ### Data
-All files can be sent upon request. 
+All pre-made files can be sent upon request. All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/scripts_nonsql
 
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt
