@@ -8,7 +8,6 @@ Authors: E.S. Deutekom, T.J.P. van Dam, B. Snel
 
 ## Disclaimer
 This serves to share code and data for reproducibility.
-Due to the amount of data, we cannot share all the data. Most data is readily available. Any additional (pre-made) data can be shared upon request.
 
 ## Contained directories and files
 Main analysis notebook: Improving_prediction_Sonic_final.ipynb
