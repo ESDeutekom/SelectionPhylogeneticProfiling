@@ -7,6 +7,7 @@ import random
 from scipy.spatial import distance
 from sklearn.metrics import roc_auc_score, roc_curve, auc
 #use random sets of ortholgous groups/profiles
+#Run in parallel 20 times to get 1000 sets
 
 #og profiles
 pro_file = sys.argv[1]
@@ -80,7 +81,7 @@ print("BASE AUC: ", 1 - roc_auc_score(dist_df.loc[:,"set"],dist_df.loc[:,"cosine
 with open(out_file, "w") as out_file:
     #out_file.write("\t".join(["all_og", str(base_auc), "\n"]))
 
-    for i in range(0,50): #Can be run in parallel 20 times 
+    for i in range(0,50): #Can be run in parallel 20 times
         profile_rand_og = profile_leca.sample(frac=0.63) #take 63% of the original data/OGs
 
         pos_df = get_distance_df(pos_set_leca, profile_rand_og, "positive")

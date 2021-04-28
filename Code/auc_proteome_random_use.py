@@ -8,6 +8,7 @@ from scipy.spatial import distance
 from sklearn.metrics import roc_auc_score, roc_curve, auc
 import math
 #remove proteomes one by one and see how auc improves
+#Run in parallel 20 times to get 1000 sets
 
 #sequentially remove proteomes
 #measure distances between interacting sets
