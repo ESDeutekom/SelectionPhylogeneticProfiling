@@ -37,7 +37,7 @@ Any data can also be sent upon request.
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt (https://thebiogrid.org).
 - BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt (https://thebiogrid.org).
-- All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (link).
+- All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (10.6084/m9.figshare.14500146).
 - OG files and LECA OG files: 
   - Sonicparanoid: 
     - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_Sonicparanoid_sensitive.txt
