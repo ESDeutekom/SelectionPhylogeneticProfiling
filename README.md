@@ -15,6 +15,7 @@ Main analysis notebook: Improving_prediction_Sonic_final.ipynb
 
 ### Code
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
+Previous work was done using code from: https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/scripts_nonsql
 
 #### Software and tools in analyses
 - python		3.7.6
@@ -30,7 +31,7 @@ Code at least needed for reproducibility, used outside of the jupyter notebook f
 
 ### Data
 
-All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/scripts_nonsql
+All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/
 All pre-made files can be sent upon request. Any additional files that are possible to share are shared in the zip.
 
 #### Files in this analysis that can be downloaded
