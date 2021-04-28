@@ -32,11 +32,11 @@ Previous work was done using code from: https://github.com/ESDeutekom/ComparingO
 ### Data
 
 All data can be reproduced using the code provided here and previous work done in https://github.com/ESDeutekom/ComparingOrthologies/
-Any additional data can be sent upon request.
+Any data can also be sent upon request.
 
 #### Files in this analysis that can be downloaded
-- BIOGRID Homo sapiens: 3.5.172.tab2.txt (https://thebiogrid.org)
-- BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt (https://thebiogrid.org)
-- All pre-made files that are needed to reproduce the results in the jupyter notebook are shared with figshare (link)
+- BIOGRID Homo sapiens: 3.5.172.tab2.txt (https://thebiogrid.org).
+- BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt (https://thebiogrid.org).
+- All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (link).
 - OG files and LECA OG files: https://github.com/ESDeutekom/ComparingOrthologies/tree/master/eukarya/annotations
-  - The phylogenetic profiles can also be made using the files and code in this previous repo
+  - The phylogenetic profiles can also be made using the files and code in this previous repo.
