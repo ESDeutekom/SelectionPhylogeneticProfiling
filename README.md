@@ -41,8 +41,8 @@ Any data can also be sent upon request.
 - All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (link).
 - OG files and LECA OG files: 
   - Sonicparanoid: 
-    -https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_Sonicparanoid_sensitive.txt
-    -https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/leca_orthologous_group_list_Sonicparanoid_sensitive
+    - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_Sonicparanoid_sensitive.txt
+    - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/leca_orthologous_group_list_Sonicparanoid_sensitive
   - Broccoli: 
-    -https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_broccoli.txt
-    -https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/leca_orthologous_group_list_broccoli 
+    - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_broccoli.txt
+    - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/leca_orthologous_group_list_broccoli 
