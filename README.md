@@ -11,7 +11,7 @@ This serves to share code and data for reproducibility.
 
 ## Contained directories and files
 Main analysis notebook: Improving_prediction_Sonic_final.ipynb
-Download data at 10.6084/m9.figshare.14500146 as is. Add notebook to Sonicparanoid or Broccoli folder. 
+Download data at https://doi.org/10.6084/m9.figshare.14500146 as is. Add notebook to Sonicparanoid or Broccoli folder. 
 
 ### Code
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
@@ -38,7 +38,7 @@ Any data can also be sent upon request.
 #### Files in this analysis that can be downloaded
 - BIOGRID Homo sapiens: 3.5.172.tab2.txt (https://thebiogrid.org).
 - BIOGRID Saccharomyces cerevisiae S288c: 3.5.175.tab2.txt (https://thebiogrid.org).
-- All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (10.6084/m9.figshare.14500146).
+- All pre-made files that are needed to reproduce the main results for Sonicparanoid inferred OGs in the jupyter notebook are shared with figshare (https://doi.org/10.6084/m9.figshare.14500146).
 - OG files and LECA OG files: 
   - Sonicparanoid: 
     - https://github.com/ESDeutekom/ComparingOrthologies/blob/master/eukarya/annotations/Orthogroups_Sonicparanoid_sensitive.txt
