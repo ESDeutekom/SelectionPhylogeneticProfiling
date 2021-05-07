@@ -11,6 +11,7 @@ This serves to share code and data for reproducibility.
 
 ## Contained directories and files
 Main analysis notebook: Improving_prediction_Sonic_final.ipynb
+Download data at 10.6084/m9.figshare.14500146 as is. Add notebook to Sonicparanoid or Broccoli folder. 
 
 ### Code
 Code at least needed for reproducibility, used outside of the jupyter notebook for the analyses.
